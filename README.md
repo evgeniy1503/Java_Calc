@@ -1,41 +1,43 @@
 # Java_Calc
 
-[![GitHub CI](https://github.com/evgeniy1503/Java_Calc/actions/workflows/main.yml/badge.svg)](https://github.com/evgeniy1503/Java_Calc/actions/workflows/main.yml)
+[![GitHub CI](https://github.com/evgeniy1503/Java_Calc/actions/workflows/java.yml/badge.svg)](https://github.com/evgeniy1503/Java_Calc/actions/workflows/java.yml)
 
-Пример работы программы:
-Input:
+<h3>Пример работы программы:</h3>
+
+
+<h5>Input:</h5>
 1 + 2
 
-Output:
+<h5>Output:</h5>
 3
 
-Input:
+<h5>Input:</h5>
 VI / III
 
-Output:
+<h5>Output:</h5>
 II
 
-Input:
+<h5>Input:</h5>
 I - II
 
-Output:
+<h5>Output:</h5>
 throws Exception //т.к. в римской системе нет отрицательных чисел
 
-Input:
+<h5>Input:</h5>
 I + 1
 
-Output:
+<h5>Output:</h5>
 throws Exception //т.к. используются одновременно разные системы счисления
 
-Input:
+<h5>Input:</h5>
 1
 
-Output:
+<h5>Output:</h5>
 throws Exception //т.к. строка не является математической операцией
 
-Input:
+<h5>Input:</h5>
 1 + 2 + 3
 
-Output:
+<h5>Output:</h5>
 throws Exception //т.к. формат математической операции не удовлетворяет заданию - два операнда и один оператор (+, -, /, *)
 
