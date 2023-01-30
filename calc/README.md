@@ -1,0 +1,1 @@
+[![GitHub CI](https://github.com/evgeniy1503/Java_Calc/actions/workflows/main.yml/badge.svg)](https://github.com/evgeniy1503/Java_Calc/actions/workflows/main.yml)
